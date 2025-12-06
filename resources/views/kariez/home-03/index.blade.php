@@ -1967,9 +1967,6 @@
 																class="attachment-full size-full lazyload"
 																alt="" /></noscript> </a>
 												</div>
-
-
-
 											</div>
 										</div>
 									</div>
@@ -1980,9 +1977,7 @@
 										data-id="506df0e" data-element_type="widget"
 										data-widget_type="rt-image.default">
 										<div class="elementor-widget-container">
-
 											<div class="rt-image-layout rt-image-layout-1 ">
-
 												<div class="rt-image wow-off fadeInUp" data-wow-delay="200ms"
 													data-wow-duration="1200ms">
 													<a href=# aria-label="image">
@@ -1996,9 +1991,6 @@
 																class="attachment-full size-full lazyload"
 																alt="" /></noscript> </a>
 												</div>
-
-
-
 											</div>
 										</div>
 									</div>
@@ -2009,9 +2001,7 @@
 										data-id="6ce1eb6" data-element_type="widget"
 										data-widget_type="rt-image.default">
 										<div class="elementor-widget-container">
-
 											<div class="rt-image-layout rt-image-layout-1 ">
-
 												<div class="rt-image wow-off fadeInUp" data-wow-delay="200ms"
 													data-wow-duration="1200ms">
 													<a href=# aria-label="image">
@@ -2025,9 +2015,6 @@
 																class="attachment-full size-full lazyload"
 																alt="" /></noscript> </a>
 												</div>
-
-
-
 											</div>
 										</div>
 									</div>
@@ -2038,9 +2025,7 @@
 										data-id="4132f73" data-element_type="widget"
 										data-widget_type="rt-image.default">
 										<div class="elementor-widget-container">
-
 											<div class="rt-image-layout rt-image-layout-1 ">
-
 												<div class="rt-image wow-off fadeInUp" data-wow-delay="200ms"
 													data-wow-duration="1200ms">
 													<a href=# aria-label="image">
@@ -2054,9 +2039,6 @@
 																class="attachment-full size-full lazyload"
 																alt="" /></noscript> </a>
 												</div>
-
-
-
 											</div>
 										</div>
 									</div>
@@ -2067,9 +2049,7 @@
 										data-id="15648ff" data-element_type="widget"
 										data-widget_type="rt-image.default">
 										<div class="elementor-widget-container">
-
 											<div class="rt-image-layout rt-image-layout-1 ">
-
 												<div class="rt-image wow-off fadeInUp" data-wow-delay="200ms"
 													data-wow-duration="1200ms">
 													<a href=# aria-label="image">
@@ -2083,9 +2063,6 @@
 																class="attachment-full size-full lazyload"
 																alt="" /></noscript> </a>
 												</div>
-
-
-
 											</div>
 										</div>
 									</div>
@@ -2096,9 +2073,7 @@
 										data-id="17ef95a" data-element_type="widget"
 										data-widget_type="rt-image.default">
 										<div class="elementor-widget-container">
-
 											<div class="rt-image-layout rt-image-layout-1 ">
-
 												<div class="rt-image wow-off fadeInUp" data-wow-delay="200ms"
 													data-wow-duration="1200ms">
 													<a href=# aria-label="image">
@@ -2112,9 +2087,6 @@
 																class="attachment-full size-full lazyload"
 																alt="" /></noscript> </a>
 												</div>
-
-
-
 											</div>
 										</div>
 									</div>
@@ -2141,7 +2113,6 @@
 													<div class="top-sub-title has-animation default">
 														Recent Articles </div>
 												</div>
-
 												<!--Main Title-->
 												<div class="wow-off fadeInUp" data-wow-delay="400ms"
 													data-wow-duration="1200ms">
@@ -2175,7 +2146,6 @@
 												data-wow-delay=200ms data-wow-duration=1200ms>
 												<div class="article-inner-wrapper">
 													<div class="post-thumbnail-wrap">
-
 														<figure class="post-thumbnail">
 															<a class="post-thumb-link alignwide" href=""
 																aria-hidden="true" tabindex="-1"><img loading="lazy"
@@ -2193,9 +2163,7 @@
 																		alt=""
 																		srcset="https://www.radiustheme.com/demo/wordpress/themes/kariez/wp-content/uploads/2025/01/blog-12-2.jpg 1272w, https://www.radiustheme.com/demo/wordpress/themes/kariez/wp-content/uploads/2025/01/blog-12-2-300x198.jpg 300w, https://www.radiustheme.com/demo/wordpress/themes/kariez/wp-content/uploads/2025/01/blog-12-2-1024x676.jpg 1024w, https://www.radiustheme.com/demo/wordpress/themes/kariez/wp-content/uploads/2025/01/blog-12-2-768x507.jpg 768w"
 																		sizes="(max-width: 1272px) 100vw, 1272px" /></noscript></a>
-														</figure><!-- .post-thumbnail -->
-
-
+														</figure>
 													</div>
 													<div class="entry-wrapper">
 														<header class="entry-header">
@@ -2228,7 +2196,6 @@
 												data-wow-delay=400ms data-wow-duration=1200ms>
 												<div class="article-inner-wrapper">
 													<div class="post-thumbnail-wrap">
-
 														<figure class="post-thumbnail">
 															<a class="post-thumb-link alignwide" href=""
 																aria-hidden="true" tabindex="-1"><img loading="lazy"
@@ -2246,9 +2213,7 @@
 																		alt=""
 																		srcset="https://www.radiustheme.com/demo/wordpress/themes/kariez/wp-content/uploads/2024/12/blog-2.jpg 1272w, https://www.radiustheme.com/demo/wordpress/themes/kariez/wp-content/uploads/2024/12/blog-2-300x198.jpg 300w, https://www.radiustheme.com/demo/wordpress/themes/kariez/wp-content/uploads/2024/12/blog-2-1024x676.jpg 1024w, https://www.radiustheme.com/demo/wordpress/themes/kariez/wp-content/uploads/2024/12/blog-2-768x507.jpg 768w"
 																		sizes="(max-width: 1272px) 100vw, 1272px" /></noscript></a>
-														</figure><!-- .post-thumbnail -->
-
-
+														</figure>
 													</div>
 													<div class="entry-wrapper">
 														<header class="entry-header">
@@ -2284,9 +2249,7 @@
 					</div>
 				</div>
 			</div>
-
 		</div>
-
 		<footer class="site-footer kariez-footer-builder" role="contentinfo">
 			<div data-elementor-type="wp-post" data-elementor-id="2912" class="elementor elementor-2912">
 				<div class="elementor-element elementor-element-93070d8 e-flex e-con-boxed rt-parallax-bg-no e-con e-parent"
@@ -2302,7 +2265,6 @@
 										data-id="d0463db" data-element_type="widget"
 										data-widget_type="rt-site-logo.default">
 										<div class="elementor-widget-container">
-
 											<div class="site-branding light">
 												<a href="" rel="home" aria-label="site logo" class="has-mobile-logo">
 													<img width="188" height="46" src="" class="rt-site-logo dark-logo"
@@ -2320,11 +2282,8 @@
 										data-id="6ad8952" data-element_type="widget"
 										data-widget_type="fluent-form-widget.default">
 										<div class="elementor-widget-container">
-
 											<div
 												class="fluentform-widget-wrapper hide-fluent-form-labels fluentform-widget-align-default">
-
-
 												<div
 													class='fluentform ff-default fluentform_wrapper_5 ffs_default_wrap'>
 													<form data-form_id="5" id="fluentform_5"
@@ -2423,28 +2382,37 @@
 			<span class="progress-wrapper"><span class="progress"></span></span>
 			<i class="icon-back-top bc-svg"></i>
 		</a>
-
 	</div>
-
+	<script async src='https://aicubix.com/js/wp-btn/embeds/embeds.min.js'></script>
+	<script>
+		var wa_btnSetting = {
+			"btnColor": "#198754",
+			"ctaText": "",
+			"cornerRadius": "40",
+			"marginBottom": "20",
+			"marginLeft": "20",
+			"marginRight": "20",
+			"btnPosition": "left",
+			"whatsAppNumber": "919837263544",
+			"welcomeMessage": "Interested!",
+			"zIndex": "999999",
+			"btnColorScheme": "light"
+		};
+		window.onload = () => {
+			_waEmbed(wa_btnSetting);
+		};
+	</script>
 	<script type="speculationrules">
 		{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/demo\/wordpress\/themes\/kariez\/*"},{"not":{"href_matches":["\/demo\/wordpress\/themes\/kariez\/wp-*.php","\/demo\/wordpress\/themes\/kariez\/wp-admin\/*","\/demo\/wordpress\/themes\/kariez\/wp-content\/uploads\/*","\/demo\/wordpress\/themes\/kariez\/wp-content\/*","\/demo\/wordpress\/themes\/kariez\/wp-content\/plugins\/*","\/demo\/wordpress\/themes\/kariez\/wp-content\/themes\/kariez\/*","\/demo\/wordpress\/themes\/kariez\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
 </script>
-
 	<style>
 		form.fluent_form_5 .ff-btn-submit:not(.ff_btn_no_style) {
 			background-color: var(--fluentform-primary);
 			color: #ffffff;
 		}
 	</style>
-
-
-
-
 	<script defer type="text/javascript" src="../wp-content/plugins/sg-cachepress/assets/js/lazysizes.min.js"
 		id="siteground-optimizer-lazy-sizes-js-js"></script>
-
-
-
 	<script defer type="text/javascript" id="elementor-frontend-js-before">
 		var elementorFrontendConfig = {
 			"environmentMode": {
@@ -2572,18 +2540,6 @@
 			}
 		};
 	</script>
-
-
-
-
-
-
-
-
-
-
-
-
 	<script type="text/javascript" id="kariez-main-js-extra">
 		var kariezObj = {
 			"rtl": "ltr",
